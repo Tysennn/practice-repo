@@ -1,9 +1,0 @@
-# Practice Project
-
-A command-only sandbox project.
-
-## About
-
-This repository is dedicated to:
-- Practicing Git commands directly in the terminal.
-- Conducting experiments and workflows with CLI agents.
